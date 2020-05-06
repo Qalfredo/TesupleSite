@@ -1,0 +1,8 @@
+---
+layout: default
+img: paper.png
+category: Services
+title: Papelería
+description: |
+---
+  Todo tipo de papeles, cartulinas y cartones.
