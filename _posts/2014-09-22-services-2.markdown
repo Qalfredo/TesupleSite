@@ -5,4 +5,4 @@ category: Services
 title: Articulos de Oficina
 description: |
 ---
-  Todo tipo de suministros para la oficina.
+  Suministros para la oficina, de escritorio, escritura e insumos de computación.
