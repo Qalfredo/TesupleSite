@@ -11,8 +11,8 @@ description: > # "Write an awesome description for your new site here.
   head meta (for Google search results) and in your feed.xml site 
   description.
 copyright: 'Copyright &copy; 2020 TeSuple3000. All Rights Reserved.'
-credits1: 'Teléfono Oficina <a href="telf:+582126938966">212 - 693 8966</a>'
-credits2: 'Telefono Celular <a href = "telf:+584129191617">412 - 919 1617</a>'
+credits1: 'Teléfono Oficina <a href="tel:+582126938966">212 - 693 8966</a>'
+credits2: 'Telefono Celular <a href = "tel:+584129191617">412 - 919 1617</a>'
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
